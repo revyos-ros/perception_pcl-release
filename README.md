@@ -1,3 +1,29 @@
+## perception_pcl (jazzy) - 2.6.2-1
+
+The packages in the `perception_pcl` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy perception_pcl --override-release-repository-push-url git@github.com:revyos-ros/perception_pcl-release.git` on `Thu, 19 Dec 2024 06:52:22 -0000`
+
+These packages were released:
+- `pcl_conversions`
+- `pcl_ros`
+- `perception_pcl`
+
+Version of package(s) in repository `perception_pcl`:
+
+- upstream repository: https://github.com/ros-perception/perception_pcl.git
+- release repository: https://github.com/revyos-ros/perception_pcl-release.git
+- rosdistro version: `2.6.2-1`
+- old version: `2.6.1-4`
+- new version: `2.6.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## perception_pcl (humble) - 2.4.5-2
 
 The packages in the `perception_pcl` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble perception_pcl --override-release-repository-push-url git@github.com:revyos-ros/perception_pcl-release.git` on `Mon, 23 Sep 2024 05:22:03 -0000`
